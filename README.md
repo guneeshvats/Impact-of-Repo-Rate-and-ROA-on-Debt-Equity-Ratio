@@ -66,4 +66,5 @@ Each dataset contains:
 Make sure the following Python libraries are installed:
 
 ```bash
-pip install pandas matplotlib seaborn statsmodels openpyxl tabulate
+pip install -r requirements.txt
+```
